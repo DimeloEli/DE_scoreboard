@@ -1,7 +1,7 @@
 # DE_scoreboard
-A simple scoreboard script.
+A simple scoreboard script for both QBCore and ESX Legacy!
 
-- ESX Legacy
-- Easy to configure
-- Includes ID's over head
-- Ox_lib menu
+- Provides support for QBCore and ESX Legacy!
+- Easy to configure!
+- Includes ID's over head!
+- Utilizes `ox_lib` menu!
