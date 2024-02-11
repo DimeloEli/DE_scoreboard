@@ -8,7 +8,8 @@ client_script {
 
 shared_scripts {
     '@ox_lib/init.lua',
-    'config.lua'
+    'config.lua',
+    'init.lua'
 }
 
 server_script {
